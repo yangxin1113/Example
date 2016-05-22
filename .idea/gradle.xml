@@ -10,9 +10,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AnimationEaxm" />
+            <option value="$PROJECT_DIR$/CustView" />
             <option value="$PROJECT_DIR$/GooeyMenu" />
             <option value="$PROJECT_DIR$/GroupView1" />
+            <option value="$PROJECT_DIR$/MPAndroidChart" />
             <option value="$PROJECT_DIR$/MyGroupView" />
+            <option value="$PROJECT_DIR$/PopCanlender" />
             <option value="$PROJECT_DIR$/Property" />
             <option value="$PROJECT_DIR$/Pull" />
             <option value="$PROJECT_DIR$/Refresh" />

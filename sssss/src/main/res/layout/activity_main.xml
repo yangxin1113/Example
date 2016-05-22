@@ -1,10 +1,10 @@
-<android.support.v4.widget.DrawerLayout
+<android.support.v4.com.zyx.custview.widget.DrawerLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <io.codetail.widget.RevealFrameLayout
+    <io.codetail.com.zyx.custview.widget.RevealFrameLayout
         android:id="@+id/container_frame"
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
@@ -22,14 +22,14 @@
             android:layout_height="match_parent"
             android:orientation="vertical"/>
 
-        <android.support.v7.widget.Toolbar
+        <android.support.v7.com.zyx.custview.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_height="wrap_content"
             android:layout_width="match_parent"
             android:minHeight="?attr/actionBarSize"
             android:background="?attr/colorPrimary"/>
 
-    </io.codetail.widget.RevealFrameLayout>
+    </io.codetail.com.zyx.custview.widget.RevealFrameLayout>
 
     <ScrollView
         android:id="@+id/scrollView"
@@ -47,4 +47,4 @@
             android:background="@android:color/transparent">
         </LinearLayout>
     </ScrollView>
-</android.support.v4.widget.DrawerLayout>
+</android.support.v4.com.zyx.custview.widget.DrawerLayout>

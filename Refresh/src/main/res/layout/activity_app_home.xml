@@ -3,16 +3,16 @@
     android:layout_width="match_parent"
     android:orientation="vertical">
 
-    <android.support.v7.widget.Toolbar
+    <android.support.v7.com.zyx.custview.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:minHeight="?attr/actionBarSize"
         android:background="?attr/colorPrimary">
 
-    </android.support.v7.widget.Toolbar>
+    </android.support.v7.com.zyx.custview.widget.Toolbar>
 
-    <android.support.v4.widget.DrawerLayout
+    <android.support.v4.com.zyx.custview.widget.DrawerLayout
         android:id="@+id/dl_home"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -32,5 +32,5 @@
 
         </LinearLayout>
 
-    </android.support.v4.widget.DrawerLayout>
+    </android.support.v4.com.zyx.custview.widget.DrawerLayout>
 </LinearLayout>

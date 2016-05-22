@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimationEaxm/AnimationEaxm.iml" filepath="$PROJECT_DIR$/AnimationEaxm/AnimationEaxm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustView/CustView.iml" filepath="$PROJECT_DIR$/CustView/CustView.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example.iml" filepath="$PROJECT_DIR$/Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/GooeyMenu/GooeyMenu.iml" filepath="$PROJECT_DIR$/GooeyMenu/GooeyMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/GroupView1/GroupView1.iml" filepath="$PROJECT_DIR$/GroupView1/GroupView1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MPAndroidChart/MPAndroidChart.iml" filepath="$PROJECT_DIR$/MPAndroidChart/MPAndroidChart.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyGroupView/MyGroupView.iml" filepath="$PROJECT_DIR$/MyGroupView/MyGroupView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PopCanlender/PopCanlender.iml" filepath="$PROJECT_DIR$/PopCanlender/PopCanlender.iml" />
       <module fileurl="file://$PROJECT_DIR$/Property/Property.iml" filepath="$PROJECT_DIR$/Property/Property.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pull/Pull.iml" filepath="$PROJECT_DIR$/Pull/Pull.iml" />
       <module fileurl="file://$PROJECT_DIR$/Refresh/Refresh.iml" filepath="$PROJECT_DIR$/Refresh/Refresh.iml" />

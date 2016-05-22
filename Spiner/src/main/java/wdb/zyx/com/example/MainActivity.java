@@ -7,6 +7,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
+import android.widget.Button;
 import android.widget.PopupWindow.OnDismissListener;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -82,6 +83,7 @@ public class MainActivity extends AppCompatActivity{
     private SpinerPopWindow<String> mSpinerPopWindow;
     private List<String> list;
     private TextView tvValue;
+    private Button bt_button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -94,6 +96,7 @@ public class MainActivity extends AppCompatActivity{
         tvValue.setOnClickListener(clickListener);
         mSpinerPopWindow = new SpinerPopWindow<String>(this, list,itemClickListener);
         mSpinerPopWindow.setOnDismissListener(dismissListener);
+        bt_button = (Button) findViewById(R.id.bt_button);
     }
 
     /**

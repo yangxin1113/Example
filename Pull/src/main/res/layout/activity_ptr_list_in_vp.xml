@@ -4,7 +4,7 @@
     android:layout_height="fill_parent"
     android:orientation="vertical" >
 
-    <!-- The PullToRefreshListView replaces a standard ListView widget. -->
+    <!-- The PullToRefreshListView replaces a standard ListView com.zyx.custview.widget. -->
 
     <android.support.v4.view.ViewPager
         android:id="@+id/vp_list"

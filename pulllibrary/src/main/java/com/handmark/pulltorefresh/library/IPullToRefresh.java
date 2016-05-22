@@ -139,10 +139,10 @@ public interface IPullToRefresh<T extends View> {
 	public boolean isRefreshing();
 
 	/**
-	 * Returns whether the widget has enabled scrolling on the Refreshable View
+	 * Returns whether the com.zyx.custview.widget has enabled scrolling on the Refreshable View
 	 * while refreshing.
 	 * 
-	 * @return true if the widget has enabled scrolling while refreshing
+	 * @return true if the com.zyx.custview.widget has enabled scrolling while refreshing
 	 */
 	public boolean isScrollingWhileRefreshingEnabled();
 

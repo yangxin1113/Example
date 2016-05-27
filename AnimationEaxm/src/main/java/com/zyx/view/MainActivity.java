@@ -49,6 +49,10 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
     @Override
     public void onClick(View v) {
+
+        if(animationDrawable.isRunning())
+            animationDrawable.stop();
+
         switch (v.getId()){
             case R.id.bt_alpha:
 
@@ -71,6 +75,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
                 imageView.startAnimation(animation);
                 break;
             case R.id.bt_frame:
+
                 imageView.setVisibility(View.INVISIBLE);
                 animationDrawable.start();
                 break;

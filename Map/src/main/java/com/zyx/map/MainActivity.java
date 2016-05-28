@@ -18,6 +18,7 @@ public class MainActivity extends Activity implements OnClickListener{
     private Button bt_local;
     private Button bt_guide;
     private Button bt_city;
+    private Button bt;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

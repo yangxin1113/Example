@@ -9,184 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea3d2b28-c2bd-4ba0-8e37-4217bb5f5f23" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/BaiduLBS_Android.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/IndoorscapeAlbumPlugin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/Native_Libs2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/bottom_tab_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/button_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/button_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/glass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/gran.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/ground_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/httpmime-4.1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_gcoding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_geo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/mipmap-hdpi/icon_geo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_marka.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_markb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_markc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_markd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_marke.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_markf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_markg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_markh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_marki.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_markj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/icon_st.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/john.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/drawable/left_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libBDSpeechDecoder_V1.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libBaiduMapSDK_base_v3_7_3.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libBaiduMapSDK_cloud_v3_7_3.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libBaiduMapSDK_map_v3_7_3.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libBaiduMapSDK_radar_v3_7_3.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libBaiduMapSDK_search_v3_7_3.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libBaiduMapSDK_util_v3_7_3.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libapp_BaiduNaviApplib.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libapp_BaiduPanoramaAppLib.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libapp_BaiduVIlib.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libbd_etts.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libbds.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libcurl.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/libgnustl_shared.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/libs/armeabi/liblocSDK6a.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/mechanic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/next_.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/next_down_.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/popup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/popup_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/popup_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/popup_middle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/popup_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/popup_side.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/pre_.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/pre_down_.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/drawable/right_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/ruth.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/stefan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/teacher.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/turtle.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/walter.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/yeats.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/androidTest/java/com/zyx/custview/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/androidTest/java/zyx/com/chart/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/androidTest/java/com/zyx/map/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/androidTest/java/wdb/zyx/com/example/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/BaiduLBS_Android.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/BikingRouteOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/BusLineOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/CustView.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/java/wdb/zyx/com/example/DatePopWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/java/wdb/zyx/com/example/datepicker/DateUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/java/zyx/com/chart/DemoBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/DistrictSearchDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/DrivingRouteOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/java/com/zyx/custview/FirstActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/java/com/zyx/custview/widget/FirstCustview.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/IndoorscapeAlbumPlugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/LocationDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/MPAndroidChart.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/java/com/zyx/custview/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/java/zyx/com/chart/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/java/wdb/zyx/com/example/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/Map.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/java/com/zyx/custview/util/MeasureUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/java/wdb/zyx/com/example/datepicker/MonthDateView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MyApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Native_Libs2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/OverlayManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/PoiOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/PopCanlender.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/RoutePlanDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/TransitRouteOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/WalkingRouteOverlay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/java/wdb/zyx/com/example/datepicker/WeekDayView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/layout/activity_date.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/layout/activity_district_search_demo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/layout/activity_location.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/layout/activity_routeplan.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/anim/anim.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/drawable/back_border.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/bg_edittext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/bg_edittext_focused.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/bg_edittext_normal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/button_style.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/drawable/edit_cursor.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/anim/fade_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/anim/fade_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/layout/firstview.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/httpmime_4_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/menu/menu_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/res/menu/menu_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/menu/menu_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/menu/menu_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/package.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CustView/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MPAndroidChart/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopCanlender/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AnimationEaxm/AnimationEaxm.iml" afterPath="$PROJECT_DIR$/AnimationEaxm/AnimationEaxm.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AnimationEaxm/src/main/java/com/zyx/view/MainActivity.java" afterPath="$PROJECT_DIR$/AnimationEaxm/src/main/java/com/zyx/view/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_24_0_0_alpha2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_24_0_0_alpha2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_0_0_alpha2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_0_0_alpha2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_24_0_0_alpha2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_24_0_0_alpha2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_24_0_0_alpha2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_24_0_0_alpha2.xml" />
+    <list default="true" id="ea3d2b28-c2bd-4ba0-8e37-4217bb5f5f23" name="Default" comment="地图demo">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MainActivity.java" afterPath="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Example.iws" />
@@ -285,75 +110,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Map/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.15098469">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Map/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RoutePlanDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/RoutePlanDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-30.733334">
-              <caret line="493" column="44" selection-start-line="493" selection-start-column="44" selection-end-line="493" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DistrictSearchDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/DistrictSearchDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="78" column="12" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LocationDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/LocationDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52224827">
-              <caret line="144" column="21" selection-start-line="144" selection-start-column="15" selection-end-line="144" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1958#3316#0" expanded="true" />
-                <element signature="e#3315#3316#0" expanded="true" />
-                <element signature="e#3488#4478#0" expanded="true" />
-                <element signature="e#4477#4478#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -362,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MyApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -370,48 +132,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JSONObject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Sdk/sources/android-23/org/json/JSONObject.java">
+      <file leaf-file-name="LocationDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/LocationDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="580" column="22" selection-start-line="576" selection-start-column="7" selection-end-line="580" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_district_search_demo.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Map/src/main/res/layout/activity_district_search_demo.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WalkingRouteOverlay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/WalkingRouteOverlay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <caret line="149" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#853#854#0" expanded="false" />
-                <element signature="e#884#885#0" expanded="false" />
-                <element signature="e#1015#1016#0" expanded="false" />
-                <element signature="e#1048#1049#0" expanded="false" />
-                <element signature="e#1251#1267#0" expanded="false" />
-                <element signature="e#4298#4306#0" expanded="false" />
-                <element signature="e#4963#4964#0" expanded="false" />
-                <element signature="e#4990#4991#0" expanded="false" />
-                <element signature="e#5022#5023#0" expanded="false" />
-                <element signature="e#5046#5047#0" expanded="false" />
-                <element signature="e#5162#5163#0" expanded="false" />
-                <element signature="e#5189#5190#0" expanded="false" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoutePlanDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/RoutePlanDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="493" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="512" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -10290,10 +10029,10 @@
         <option value="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/BikingRouteOverlay.java" />
         <option value="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/DistrictSearchDemo.java" />
         <option value="$PROJECT_DIR$/Map/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MainActivity.java" />
         <option value="$PROJECT_DIR$/Map/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/RoutePlanDemo.java" />
         <option value="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/LocationDemo.java" />
+        <option value="$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -10343,7 +10082,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -10355,17 +10094,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Example" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -10412,15 +10141,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Native_Libs2.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="armeabi" />
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -10438,14 +10163,114 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Example" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Example" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Map" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Example" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Map" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Example" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Map" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="map" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -11079,7 +10904,13 @@
       <option name="project" value="LOCAL" />
       <updated>1463927286297</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="地图demo">
+      <created>1464367026047</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1464367026047</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -11103,7 +10934,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2662116" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698962" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -11114,7 +10945,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28441754" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31141868" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3105802" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -11128,15 +10959,15 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17927383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18340944" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26124567" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -11150,8 +10981,8 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32698962" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26297578" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -11168,20 +10999,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="动画Animation，tween+frame" />
-    <option name="LAST_COMMIT_MESSAGE" value="动画Animation，tween+frame" />
+    <MESSAGE value="地图demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="地图demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AnimationEaxm/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AnimationEaxm/src/main/res/anim/scale.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -11204,13 +11029,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AnimationEaxm/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Sdk/sources/android-23/android/view/View.java">
@@ -11694,6 +11519,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -12175,13 +12001,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AnimationEaxm/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18326694">
           <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AnimationEaxm/src/main/res/anim/alpha.xml">
@@ -12240,25 +12066,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Map/src/main/res/layout/activity_location.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.6">
           <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Map/src/main/res/layout/activity_routeplan.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Map/src/main/res/layout/activity_routeplan.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/overlayutil/BikingRouteOverlay.java">
@@ -12344,35 +12170,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Map/src/main/res/layout/activity_district_search_demo.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Map/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Map/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="32" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="32" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/Map/libs/BaiduLBS_Android.jar!/com/baidu/mapapi/search/district/DistrictSearch.class">
@@ -12407,7 +12223,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23173803">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -12415,7 +12230,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63727957">
           <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -12423,7 +12237,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.7857144">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -12439,15 +12252,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35357916">
           <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Sdk/sources/android-23/org/json/JSONObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-0.4092827">
           <caret line="580" column="22" selection-start-line="576" selection-start-column="7" selection-end-line="580" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -12467,45 +12278,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/RoutePlanDemo.java">
+    <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/DistrictSearchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-30.733334">
-          <caret line="493" column="44" selection-start-line="493" selection-start-column="44" selection-end-line="493" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="12" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MyApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/DistrictSearchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="12" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/LocationDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52224827">
-          <caret line="144" column="21" selection-start-line="144" selection-start-column="15" selection-end-line="144" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="149" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1958#3316#0" expanded="true" />
-            <element signature="e#3315#3316#0" expanded="true" />
-            <element signature="e#3488#4478#0" expanded="true" />
-            <element signature="e#4477#4478#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/RoutePlanDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="493" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="512" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Map/src/main/java/com/zyx/map/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15098469">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>

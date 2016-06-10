@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnimationEaxm/AnimationEaxm.iml" filepath="$PROJECT_DIR$/AnimationEaxm/AnimationEaxm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BBBB/BBBB.iml" filepath="$PROJECT_DIR$/BBBB/BBBB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BmobPay/BmobPay.iml" filepath="$PROJECT_DIR$/BmobPay/BmobPay.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustView/CustView.iml" filepath="$PROJECT_DIR$/CustView/CustView.iml" />
       <module fileurl="file://$PROJECT_DIR$/Example.iml" filepath="$PROJECT_DIR$/Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/GooeyMenu/GooeyMenu.iml" filepath="$PROJECT_DIR$/GooeyMenu/GooeyMenu.iml" />
@@ -10,11 +12,14 @@
       <module fileurl="file://$PROJECT_DIR$/MPAndroidChart/MPAndroidChart.iml" filepath="$PROJECT_DIR$/MPAndroidChart/MPAndroidChart.iml" />
       <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyGroupView/MyGroupView.iml" filepath="$PROJECT_DIR$/MyGroupView/MyGroupView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PayNow2/PayNow2.iml" filepath="$PROJECT_DIR$/PayNow2/PayNow2.iml" />
       <module fileurl="file://$PROJECT_DIR$/PopCanlender/PopCanlender.iml" filepath="$PROJECT_DIR$/PopCanlender/PopCanlender.iml" />
       <module fileurl="file://$PROJECT_DIR$/Property/Property.iml" filepath="$PROJECT_DIR$/Property/Property.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pull/Pull.iml" filepath="$PROJECT_DIR$/Pull/Pull.iml" />
       <module fileurl="file://$PROJECT_DIR$/Refresh/Refresh.iml" filepath="$PROJECT_DIR$/Refresh/Refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpiderJar/SpiderJar.iml" filepath="$PROJECT_DIR$/SpiderJar/SpiderJar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spiner/Spiner.iml" filepath="$PROJECT_DIR$/Spiner/Spiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aaaa/aaaa.iml" filepath="$PROJECT_DIR$/aaaa/aaaa.iml" />
       <module fileurl="file://$PROJECT_DIR$/pulllibrary/pulllibrary.iml" filepath="$PROJECT_DIR$/pulllibrary/pulllibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/sssss/sssss.iml" filepath="$PROJECT_DIR$/sssss/sssss.iml" />
     </modules>

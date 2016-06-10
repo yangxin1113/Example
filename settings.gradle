@@ -1,1 +1,1 @@
-include ':GooeyMenu', ':sssss', ':Property', ':MyGroupView', ':GroupView1', ':Spiner', ':Refresh', ':Pull', ':pulllibrary', ':MPAndroidChart', ':PopCanlender', ':CustView', ':AnimationEaxm', ':Map'
+include ':GooeyMenu', ':sssss', ':Property', ':MyGroupView', ':GroupView1', ':Spiner', ':Refresh', ':Pull', ':pulllibrary', ':MPAndroidChart', ':PopCanlender', ':CustView', ':AnimationEaxm', ':Map', ':SpiderJar', ':aaaa', ':BBBB', ':PayNow2', ':BmobPay'

@@ -1,0 +1,55 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.zyx.pay"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+
+    task nativeLibsToJar(type: Zip, description: "create a jar archive of the native libs") {
+        destinationDir file("$projectDir/libs")
+        baseName "Native_Libs3"
+        extension "jar"
+        from fileTree(dir: "libs", include: "**/*.so")
+        into "lib"
+    }
+
+    tasks.withType(JavaCompile) {
+        compileTask -> compileTask.dependsOn(nativeLibsToJar)
+    }
+
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:24.0.0-alpha2'
+    compile files('libs/ipaynow_alipay_v1.0.1.jar')
+    compile files('libs/ipaynow_base_v1.3.5.jar')
+    compile files('libs/ipaynow_qq_v1.0.0.jar')
+    compile files('libs/ipaynow_upmp_v1.0.2.jar')
+    compile files('libs/ipaynow_wechatwp_v1.0.1.jar')
+    compile files('libs/bdwallet_pay_sdk-dfca272eb59714cea146be4a70ef133f.jar')
+    compile files('libs/ipaynow_wechatwp_v1.0.1-d3f4cfd35c36bd05ddc887fc1c37c731.jar')
+    compile files('libs/bdwallet_pay_sdk-dfca272eb59714cea146be4a70ef133f.jar')
+    compile files('libs/ipaynow_alipay_v1.0.1-7eb38598d07ed11d151543ce38ee87c4.jar')
+    compile files('libs/ipaynow_base_v1.3.3-21053c6428a5dbab3722e4080c58d854.jar')
+    compile files('libs/ipaynow_base_v1.3.4-44650b2db778fb22b0b753aebcb934c9.jar')
+    compile files('libs/ipaynow_base_v1.3.5-5cc43db43e6e1d3c1201fd3d67936571.jar')
+    compile files('libs/ipaynow_qq_v1.0.0-e14992482a9d7c76292d6f715a7d5f54.jar')
+    compile files('libs/ipaynow_upmp_v1.0.2-540bd37005bec4716791aa50d214daf7.jar')
+    compile files('libs/ipaynow_wechatpg_v1.0.1-80e1e2d7aaa777d1a44f04b4dfe7e451.jar')
+    compile files('libs/ipaynow_wechatwp_v1.0.1-d3f4cfd35c36bd05ddc887fc1c37c731.jar')
+}

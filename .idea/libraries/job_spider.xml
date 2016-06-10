@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="job_spider">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SpiderJar/libs/job_spider.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

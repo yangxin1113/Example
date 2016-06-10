@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bdwallet_pay_sdk-dfca272eb59714cea146be4a70ef133f">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PayNow2/libs/bdwallet_pay_sdk-dfca272eb59714cea146be4a70ef133f.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
